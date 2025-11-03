@@ -7,7 +7,7 @@ Bu depo, `cengizyilmaz.net` üzerindeki yazıların konu başlıklarını ve ba�
 
 ### Güncel Liste
 
-Toplam 10 kayıt | Son güncelleme: 2025-11-03 14:37:37Z
+Toplam 10 kayıt | Son güncelleme: 2025-11-03 14:41:47Z
 
 - [Exchange Server Eylül 2025 Hotfix Update - Cengiz YILMAZ](https://cengizyilmaz.net/exchange-server-eylul-2025-hotfix-update/)
 - [Hybrid Exchange Server Sertifika Yenileme - Cengiz YILMAZ](https://cengizyilmaz.net/hybrid-exchange-server-sertifika-yenileme/)
